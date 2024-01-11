@@ -1,8 +1,8 @@
 package com.HealthCare.entity;
 
 import com.HealthCare.enums.Gender;
-import jakarta.persistence.*;
-import jakarta.persistence.Table;
+import javax.persistence.*;
+import javax.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
